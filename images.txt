@@ -7,5 +7,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #postgis/postgis:16-3.5
 #ubuntu:25.04
-amazon/aws-cli:latest
+#amazon/aws-cli:latest
+jenkins/inbound-agent:4.11-1-jdk11
 #leplusorg/kali:autobuild
