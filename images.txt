@@ -8,5 +8,6 @@
 #postgis/postgis:16-3.5
 #ubuntu:25.04
 #amazon/aws-cli:latest
-bitnami/kubectl:latest
+#bitnami/kubectl:latest
+ubuntu:22.04
 #leplusorg/kali:autobuild
