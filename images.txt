@@ -10,5 +10,6 @@
 #amazon/aws-cli:latest
 #bitnami/kubectl:latest
 #ubuntu:22.04
-nicolaka/netshoot
+#nicolaka/netshoot
+minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
 #leplusorg/kali:autobuild
