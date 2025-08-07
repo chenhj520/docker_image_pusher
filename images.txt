@@ -11,5 +11,6 @@
 #bitnami/kubectl:latest
 #ubuntu:22.04
 #nicolaka/netshoot
-minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+#minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+clickhouse/clickhouse-server:25.6-alpine
 #leplusorg/kali:autobuild
