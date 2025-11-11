@@ -12,5 +12,5 @@
 #ubuntu:22.04
 #nicolaka/netshoot
 #minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
-arm64v8/ubuntu:22.04
+ubuntu:22.04-arm64v8
 #leplusorg/kali:autobuild
