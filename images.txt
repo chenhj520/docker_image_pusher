@@ -14,5 +14,6 @@
 #minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
 #--platform=linux/arm64 ubuntu:22.04
 #--platform=linux/amd64 ubuntu:22.04
-docker.io/dockurr/windows
+#docker.io/dockurr/windows
+kalilinux/kali-rolling:latest
 #leplusorg/kali:autobuild
